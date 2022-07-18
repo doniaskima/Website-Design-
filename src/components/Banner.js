@@ -12,7 +12,7 @@ const Banner = () => {
         <div className="flex flex-col lg:flex-row">
           <div>
             <h1 className="text-3xl font-bold lg:loading-sung">
-              Let's Explore <br /> Three Dimonsional Visually .{" "}
+              Let's Explore <br /> Three Dimonsional Visually
             </h1>
             <p className="font-secondary mb-12 max-w-[440px] mx-auto lg:mx-0">
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure,
